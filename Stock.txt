@@ -1,0 +1,65 @@
+Computer
+Desktop
+Dell
+XPS 8940
+-
+Win 10 Home
+11th Gen Intel i7-11700
+2.5-4.9Ghz
+Black
+-
+3499
+2
+Computer
+Laptop
+MSI
+15M A11UEK-009
+15.6 inch
+Windows 10 Home
+11th Gen Intel i7-11375H
+3.3-5.16 Ghz
+Carbon Gray
+1920x1080
+6899
+1
+Computer
+Monitor
+Alienware
+34 QD-OLED AW3423DW
+34 inch
+-
+-
+-
+Black
+3440x1440
+4950
+2
+Accessories
+KeyBoard
+Razer
+Blackwidow V3
+USB
+17.76x9.66x1.66
+Classic Black
+559
+2
+Printer
+HP
+Office Jet Pro 9015e
+Inkjet
+Wifi,USB,thernet
+Smartphones,PC
+3 x 5 to 8.5 x 14
+Gray
+Monochrome
+929
+3
+Accessories
+Mouse
+Logitech
+G203 HERO Lightsync
+USB
+4.59x2.45x1.50
+White
+86.9
+3
